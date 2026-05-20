@@ -1,4 +1,4 @@
-# Belajar Python
+# Leaarning python
 
 Repositori ini berisi catatan dan latihan belajar Python dari awal.
 
